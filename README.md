@@ -1,4 +1,4 @@
-### Reflections
+# Reflections
 
 ## Computer mouse
 
@@ -14,6 +14,6 @@ At last I would perform user testing, to get some feedback from other individual
 
 ## Investagation of tools
 
-# JUnit 5
+### JUnit 5
 
-# Mocking Frameworks
+### Mocking Frameworks
