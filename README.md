@@ -49,5 +49,5 @@ I have choosen the frameworks JMockit and Mockito
 #### What are their similarities?
 
 #### What are their differences?
-
+![alt text](https://github.com/MadsMeinertAndersenCPHBusiness/TestAssignment2/blob/master/DifferencesBetweenMockitoAndJMockit.JPG)
 
