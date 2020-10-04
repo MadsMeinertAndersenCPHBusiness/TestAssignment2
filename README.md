@@ -47,7 +47,11 @@ assumeFalse, assumeTrue is a way to assume something will either return true or 
 I have choosen the frameworks JMockit and Mockito
 
 #### What are their similarities?
+Both frameworks use Java. Both are developed to help the user mock certain aspects of the users software to isolate and test. 
 
 #### What are their differences?
 ![alt text](https://github.com/MadsMeinertAndersenCPHBusiness/TestAssignment2/blob/master/DifferencesBetweenMockitoAndJMockit.JPG)
+
+#### Which one would you prefer, if any, and why?
+I would probably prefer Mockito since I've seen it in class, and according to all research it seems to be the most popular and easiest one to use.
 
