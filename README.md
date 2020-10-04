@@ -18,4 +18,36 @@ The Mars Climate Orbiter was a robot developed by NASA to study the climate on M
 
 ### JUnit 5
 
+#### @Tag
+Tag is a way you filter tests with a unique name. For example, you can tag them by what kind of test it is eg. UnitTest, IntegrationTest etc. 
+
+#### @Disabled
+Disabled is a way to disable a test.
+
+#### @RepeatedTest
+RepeatedTest is a way to repeat a test if you want to run it multiple times. 
+
+#### @BeforeEach, @AfterEach
+BeforeEach and AfterEach are annotation you can use to execute some code before or after each test. They are quite useful to get rid of redundant code.
+
+#### @BeforeAll, @AfterAll
+BeforeAll and AfterAll are code that is execute before or after all the test are run. This is useful for executing an expensive operation such database connection or a server startup
+
+#### @DisplayName
+DisplayName is a way to give each of your tests a custom name.
+
+#### @Nested
+Nedsted allows you to have an inner class to group up serveral test classes under the same parent.
+
+####assumeFalse, assumeTrue
+assumeFalse, assumeTrue is a way to assume something will either return true or false. 
+
 ### Mocking Frameworks
+
+I have choosen the frameworks JMockit and Mockito
+
+#### What are their similarities?
+
+#### What are their differences?
+
+
